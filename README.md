@@ -2,7 +2,7 @@
 
 ## REST APIs in minutes with LoopBack 4
 
-[JSInteractive-2018 Slides](./NodeSummit.pdf)
+[JSInteractive-2018 QuickLab](https://github.com/b-admike/JSInteractive-2018/blob/master/REST%20APIs%20in%20minutes%20with%20LoopBack%204(QuickLab).pdf)
 
 ### Summary
 
